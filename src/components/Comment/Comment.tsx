@@ -23,14 +23,14 @@ export function Comment({ content, onDeleteComment }: CommentProps) {
     <div className={styles.comment}>
       <Avatar
         hasBorder={false}
-        src="https://i.pinimg.com/564x/0f/02/0a/0f020a458b15fb9a287cee68c6693ac6.jpg"
+        src="https://i.pinimg.com/564x/f0/9e/93/f09e93c3a92bc9532638ef384ce3ea46.jpg"
       />
 
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>
             <div className={styles.authorAndTime}>
-              <strong>Misato Katsuragi</strong>
+              <strong>Akira Hayama</strong>
               <time title="5 de Junho às 08:13h" dateTime="2023-06-5 08:13:00">
                 Cerca de 1h atrás
               </time>
